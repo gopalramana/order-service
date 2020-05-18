@@ -29,3 +29,8 @@ Select the right project
 Choose the Spring Boot Application file (search for @SpringBootApplication)
 
 Right Click on the file and Run as Java Application
+
+###userid and password 
+
+Encoder :::SU4jdXNlcm5hbWUjcGFzc3dvcmQ=
+Decoded :::IN#username#password
